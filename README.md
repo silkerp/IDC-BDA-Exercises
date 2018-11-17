@@ -1,7 +1,7 @@
 ====================
 ## IDC-BDA-Exercises
 #Business Analysis and Data Science course
-Team members:
+Team members 4:
 Eilon Bar
 Yotam Shavit
 Orel Strassman
