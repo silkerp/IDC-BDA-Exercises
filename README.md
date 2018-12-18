@@ -5,5 +5,4 @@ IDC-BDA-Exercises
 ## Team members:
 - Eilon Bar
 - Yotam Shavit
-- Orel Strassman
 - Ilan Kerpel
